@@ -6,9 +6,9 @@ The button will count from that number onwards.
 
 ## Branches
 The branches just show the project in various stages.
-* **master: ** The master branch contains the original code created by ionic from the *blank* template.
-* **button: ** The button branch simply adds a button to index.html in the master branch.
-* **number: ** Adds a textbox to contain the number.
+**master: ** The master branch contains the original code created by ionic from the *blank* template.
+**button: ** The button branch simply adds a button to index.html in the master branch.
+**number: ** Adds a textbox to contain the number.
 
 
 
