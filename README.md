@@ -23,13 +23,13 @@ The branches just show the project in various stages.
 These are based on the icon branch.
 
 1. Add a reset button, that resets the count to 0.
-2. 
+
 2. Separate the controller out into the file js/app.js. (This just reverses the onepage.)
-3. 
+
 3. Style the textbox to have the number right-justified and larger.
-4. 
+
 4. Add icons to the Count and Reset buttons.
-5. 
+
 5. Put the Reset button beside the Count button.
-6. 
+
 6. Make the reset button smaller than the Count button.
